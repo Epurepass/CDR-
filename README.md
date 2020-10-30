@@ -1,2 +1,2 @@
 # CDR-
- CDR decentralized native cryptocurrency employed by Epurepass. 
+ CDR is a decentralized native cryptocurrency employed by Epurepass. 
